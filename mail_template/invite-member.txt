@@ -1,0 +1,16 @@
+Subject: Admin Account Invitation
+
+Dear Admin,
+
+You have been invited to join the admin team for [Your Company Name]. To set your new password and activate your account, please click the link below:
+
+{NEW_PASSWORD_URL}
+
+Please
+
+If you did not expect this invitation or have any questions, please contact us at support@example.com (Please don't).
+
+We look forward to having you on the team!
+
+Best regards,
+QAirline

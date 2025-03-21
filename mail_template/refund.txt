@@ -1,0 +1,14 @@
+Subject: Refund Confirmation
+
+Dear User,
+
+We sincerely apologize for the inconvenience caused by an error on our part. We have processed a refund of ${REFUND_AMOUNT} to your account.
+
+Please note that it may take 5–7 business days for the refund to reflect in your account, depending on your payment provider.
+
+If you have further questions or need assistance, please contact us at support@example.com (Please don't).
+
+Thank you for your understanding, and we appreciate your patience.
+
+Best regards,
+QAirline
